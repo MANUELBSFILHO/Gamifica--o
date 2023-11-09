@@ -15,21 +15,29 @@ ul {
 li {
     margin: 10px 0;
     padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 30px;
     border: 1px solid #ccc;
 }
 
 button {
-    background-color: #007BFF;
+    background-color: #4682B4;
     color: #fff;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 30px;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #4682B4;
+    margin-bottom: 10px;
+    border-radius: 30px;
 }
 
 .completed {
-    background-color: #C6E17D;
+    background: linear-gradient(120deg, #F0E68C, #4682B4);
+    margin-bottom: 10px;
+    border-radius: 30px;
 }
